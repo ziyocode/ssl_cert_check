@@ -2,7 +2,7 @@ from urllib.request import ssl, socket
 from datetime import datetime
 
 
-check_url_file = str("check_url.conf")
+check_url_file = str("check_url1.conf")
 url_dict = {}
 
 
