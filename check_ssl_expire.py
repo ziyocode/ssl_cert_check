@@ -22,21 +22,20 @@ context = ssl.create_default_context()
 
 # with open(check_url_file, "r") as check_url:
 
-
 def check_expire():
     for hostname, port in url_dict.items():
-        # print(hostname, port)
         url = hostname
         try:
-            with socket.create_connection((url, port)) as sock:
+            with socket.create_connection((url, port), timeout=2) as sock:
                 with context.wrap_socket(sock, server_hostname=url) as ssock:
                     IP_ADDR = socket.gethostbyname(url)
                     cert_data = ssock.getpeercert()
                     expire_date = cert_data["notAfter"]
-                    # print(expire_date.year)
                     print("{0:<20} {1:<15} (Expire Date: {2})".format(url, IP_ADDR, expire_date))
-        except:
-            print("{0:<20s} not Found".format(url))
+        except socket.timeout:
+            print("{0:<20s} Connection timed out".format(url))
+        except Exception as e:
+            print("{0:<20s} Error: {1}".format(url, str(e)))
 
 
 if __name__ == "__main__":
