@@ -1,44 +1,45 @@
+[Running] python -u "/workspaces/ssl_cert_check/check_ssl_expire.py"
 apc.shinhan.com      Error: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1006)
 apcdev.shinhan.com   Error: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1006)
 apisvc.shinhan.com   Connection timed out
 apisvc19c.shinhan.com Connection timed out
 applyo2o.shinhan.com Error: [Errno 111] Connection refused
 appmon.shinhan.com   Connection timed out
-app-notice.shinhan.com 59.12.171.125   (Expire Date: Dec 15 23:59:59 2023 GMT)
+app-notice.shinhan.com 59.12.171.125   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 asset.shinhan.com    Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'asset.shinhan.com'. (_ssl.c:1006)
 b2bi.shinhan.com     Connection timed out
 backofficeo2o.shinhan.com Error: [Errno 111] Connection refused
-bank.shinhan.com     59.7.252.240    (Expire Date: Mar 24 23:59:59 2024 GMT)
+bank.shinhan.com     59.7.252.240    (Expire Date: Mar 24 23:59:59 2024 GMT, Serial Number: 01CC2D65800B399114164684505F7B87)
 bank19c.shinhan.com  Connection timed out
 banking.shinhan.com  Connection timed out
-banksp.shinhan.com   59.12.171.191   (Expire Date: Dec 15 23:59:59 2023 GMT)
+banksp.shinhan.com   59.12.171.191   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 banksp19c.shinhan.com Connection timed out
-banksp2nd.shinhan.com 59.12.171.241   (Expire Date: Dec 15 23:59:59 2023 GMT)
-bill.shinhan.com     59.7.252.228    (Expire Date: Nov 17 23:59:59 2024 GMT)
+banksp2nd.shinhan.com 59.12.171.241   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+bill.shinhan.com     59.7.252.228    (Expire Date: Nov 17 23:59:59 2024 GMT, Serial Number: 05088AE656AF61F03B7011FFA653BEBE)
 billdev.shinhan.com  Connection timed out
-biz.shinhan.com      59.7.252.192    (Expire Date: Dec 15 23:59:59 2023 GMT)
+biz.shinhan.com      59.7.252.192    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 biz2014.shinhan.com  Connection timed out
 biz201419c.shinhan.com Connection timed out
-biz2015.shinhan.com  59.7.252.194    (Expire Date: Dec 15 23:59:59 2023 GMT)
-biz2022.shinhan.com  59.7.252.4      (Expire Date: Dec 15 23:59:59 2023 GMT)
-bizbank.shinhan.com  59.7.252.102    (Expire Date: Dec 15 23:59:59 2023 GMT)
+biz2015.shinhan.com  59.7.252.194    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+biz2022.shinhan.com  59.7.252.4      (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+bizbank.shinhan.com  59.7.252.102    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 bizbank19c.shinhan.com Connection timed out
 bizdev.shinhan.com   Connection timed out
-bizmate.shinhan.com  59.7.252.102    (Expire Date: Dec 15 23:59:59 2023 GMT)
+bizmate.shinhan.com  59.7.252.102    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 bizpartner.shinhan.com Connection timed out
 biztst.shinhan.com   Connection timed out
 boss.shinhan.com     Error: [Errno 111] Connection refused
 bprapp.shinhan.com   Connection timed out
 bpt.shinhan.com      Connection timed out
-ca.shinhan.com       59.7.252.15     (Expire Date: Oct 19 23:59:59 2024 GMT)
+ca.shinhan.com       59.7.252.15     (Expire Date: Oct 19 23:59:59 2024 GMT, Serial Number: 0A984D7BDC2F1DA1BBCE6788D07424D0)
 catalog.shinhan.com  Connection timed out
-cbot.shinhan.com     59.7.252.84     (Expire Date: Dec 15 23:59:59 2023 GMT)
+cbot.shinhan.com     59.7.252.84     (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 cbotdev.shinhan.com  Connection timed out
 cbottest.shinhan.com Connection timed out
 cbottest2.shinhan.com Connection timed out
 cbottst.shinhan.com  Connection timed out
 ccm.shinhan.com      Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ccm.shinhan.com'. (_ssl.c:1006)
-cert.shinhan.com     59.7.252.245    (Expire Date: Dec 15 23:59:59 2023 GMT)
+cert.shinhan.com     59.7.252.245    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 cert19c.shinhan.com  Connection timed out
 certu2l.shinhan.com  Connection timed out
 chat.shinhan.com     Connection timed out
@@ -47,14 +48,14 @@ chatdev.shinhan.com  Connection timed out
 chattst.shinhan.com  Connection timed out
 cibdev.shinhan.com   Connection timed out
 cibtst.shinhan.com   Connection timed out
-classcop.shinhan.com 59.7.254.12     (Expire Date: Dec 15 23:59:59 2023 GMT)
-collect.shinhan.com  59.7.252.76     (Expire Date: Dec 15 23:59:59 2023 GMT)
+classcop.shinhan.com 59.7.254.12     (Expire Date: Dec 15 23:59:59 2023 GMT, Serial Number: 0D73F46FF512827CA65E53DA8076D130)
+collect.shinhan.com  59.7.252.76     (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 cop.shinhan.com      Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1006)
-counselor.shinhan.com 59.7.254.68     (Expire Date: Dec 15 23:59:59 2023 GMT)
+counselor.shinhan.com 59.7.254.68     (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 cs.shinhan.com       Connection timed out
 custody.shinhan.com  Connection timed out
 customer.shinhan.com Connection timed out
-dcc.shinhan.com      Connection timed out
+dcc.shinhan.com      222.101.95.61   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 deposit.shinhan.com  Connection timed out
 design.shinhan.com   Connection timed out
 devaicms.shinhan.com Connection timed out
@@ -66,7 +67,7 @@ dev-banksp.shinhan.com Connection timed out
 devbanksp19c.shinhan.com Connection timed out
 devbiz19c.shinhan.com Connection timed out
 devboss.shinhan.com  Connection timed out
-dev-ca.shinhan.com   106.241.47.59   (Expire Date: Dec 15 23:59:59 2023 GMT)
+dev-ca.shinhan.com   106.241.47.59   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 devcert19c.shinhan.com Connection timed out
 devcert3.shinhan.com Connection timed out
 devchurch.shinhan.com Connection timed out
@@ -97,18 +98,18 @@ devhpe.shinhan.com   Connection timed out
 devhpe19c.shinhan.com Connection timed out
 devhpe2.shinhan.com  Connection timed out
 devhpe3.shinhan.com  Connection timed out
-devimg.shinhan.com   125.130.60.77   (Expire Date: Dec 15 23:59:59 2023 GMT)
-devimg-1.shinhan.com 125.130.60.77   (Expire Date: Dec 15 23:59:59 2023 GMT)
-devimg-2.shinhan.com 125.130.60.77   (Expire Date: Dec 15 23:59:59 2023 GMT)
-devimg3.shinhan.com  125.130.60.165  (Expire Date: Dec 15 23:59:59 2023 GMT)
+devimg.shinhan.com   125.130.60.77   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+devimg-1.shinhan.com 125.130.60.77   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+devimg-2.shinhan.com 125.130.60.77   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+devimg3.shinhan.com  125.130.60.165  (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 devinocr.shinhan.com Connection timed out
 devins19c.shinhan.com Connection timed out
 devkids.shinhan.com  Connection timed out
 devklv2.shinhan.com  Connection timed out
 devloan.shinhan.com  Connection timed out
 devlon2.shinhan.com  Connection timed out
-dev-m.shinhan.com    106.241.47.219  (Expire Date: Dec 15 23:59:59 2023 GMT)
-dev-m.sign.shinhan.com 106.241.47.219  (Expire Date: Jul 28 23:59:59 2024 GMT)
+dev-m.shinhan.com    106.241.47.219  (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+dev-m.sign.shinhan.com 106.241.47.219  (Expire Date: Jul 28 23:59:59 2024 GMT, Serial Number: 053CCAB15DB20086D23A9D82A924A1AB)
 dev-m19c.shinhan.com Connection timed out
 dev-mbank.shinhan.com Connection timed out
 devmcb19c.shinhan.com Connection timed out
@@ -200,7 +201,7 @@ devsupportdls.shinhan.com Connection timed out
 dev-sva.shinhan.com  Connection timed out
 devtong.shinhan.com  Connection timed out
 devtransapio2o.shinhan.com Connection timed out
-devums19c.shinhan.com 106.241.47.59   (Expire Date: Dec 15 23:59:59 2023 GMT)
+devums19c.shinhan.com 106.241.47.59   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 devupdateo2o.shinhan.com Connection timed out
 devzeroco.shinhan.com Connection timed out
 devzeroco19c.shinhan.com Connection timed out
@@ -215,27 +216,27 @@ dmydata.shinhan.com  Connection timed out
 dnlog.shinhan.com    Connection timed out
 drca.shinhan.com     Connection timed out
 drsafe2ch.shinhan.com Error: [Errno 111] Connection refused
-drsbizbank.shinhan.com 125.130.60.104  (Expire Date: Dec 15 23:59:59 2023 GMT)
-drsbk.shinhan.com    106.241.47.100  (Expire Date: Dec 15 23:59:59 2023 GMT)
-drsbk16.shinhan.com  125.130.60.50   (Expire Date: Dec 15 23:59:59 2023 GMT)
+drsbizbank.shinhan.com 125.130.60.104  (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+drsbk.shinhan.com    106.241.47.100  (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+drsbk16.shinhan.com  125.130.60.50   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 drshinhansign.shinhan.com Connection timed out
-drsmail.shinhan.com  125.130.60.108  (Expire Date: Dec 15 23:59:59 2023 GMT)
-drsol.shinhan.com    106.241.47.99   (Expire Date: Dec 15 23:59:59 2023 GMT)
-drsolfido.shinhan.com 106.241.47.91   (Expire Date: Dec 15 23:59:59 2023 GMT)
-dtsfm.shinhan.com    59.7.254.12     (Expire Date: Dec 15 23:59:59 2023 GMT)
-dxbiz.shinhan.com    59.7.252.112    (Expire Date: Dec 15 23:59:59 2023 GMT)
-dxbizbank.shinhan.com 14.36.209.152   (Expire Date: Dec 15 23:59:59 2023 GMT)
-dxbnk.shinhan.com    14.36.209.136   (Expire Date: Dec 15 23:59:59 2023 GMT)
+drsmail.shinhan.com  125.130.60.108  (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+drsol.shinhan.com    106.241.47.99   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+drsolfido.shinhan.com 106.241.47.91   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+dtsfm.shinhan.com    59.7.254.12     (Expire Date: Dec 15 23:59:59 2023 GMT, Serial Number: 0D73F46FF512827CA65E53DA8076D130)
+dxbiz.shinhan.com    59.7.252.112    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+dxbizbank.shinhan.com 14.36.209.152   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+dxbnk.shinhan.com    14.36.209.136   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 dxmintlady.shinhan.com Error: [Errno 111] Connection refused
-dxsbk16.shinhan.com  175.194.168.125 (Expire Date: Dec 15 23:59:59 2023 GMT)
+dxsbk16.shinhan.com  175.194.168.125 (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 dxwish.shinhan.com   Error: [Errno 111] Connection refused
-dxwww.shinhan.com    14.36.209.118   (Expire Date: Dec 15 23:59:59 2023 GMT)
+dxwww.shinhan.com    14.36.209.118   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 easy.shinhan.com     Connection timed out
 ebddev2.shinhan.com  Connection timed out
 ebdtst2.shinhan.com  Connection timed out
-ebiz.shinhan.com     59.7.252.224    (Expire Date: Dec 15 23:59:59 2023 GMT)
-ebiz2.shinhan.com    59.7.252.24     (Expire Date: Dec 15 23:59:59 2023 GMT)
-ebond.shinhan.com    59.7.252.221    (Expire Date: Dec 15 23:59:59 2023 GMT)
+ebiz.shinhan.com     59.7.252.224    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+ebiz2.shinhan.com    59.7.252.24     (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+ebond.shinhan.com    59.7.252.221    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 ebond19c.shinhan.com Connection timed out
 ebookpda.shinhan.com Connection timed out
 e-doumi.shinhan.com  Connection timed out
@@ -243,9 +244,9 @@ educast.shinhan.com  Connection timed out
 educlass.shinhan.com Connection timed out
 edudev.shinhan.com   Connection timed out
 edutest.shinhan.com  Connection timed out
-edutestdup.shinhan.com 59.7.254.12     (Expire Date: Dec 15 23:59:59 2023 GMT)
+edutestdup.shinhan.com 59.7.254.12     (Expire Date: Dec 15 23:59:59 2023 GMT, Serial Number: 0D73F46FF512827CA65E53DA8076D130)
 eform.shinhan.com    Connection timed out
-enpension.shinhan.com 59.7.252.81     (Expire Date: Dec 15 23:59:59 2023 GMT)
+enpension.shinhan.com 59.7.252.81     (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 exdtc.shinhan.com    Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)
 family.shinhan.com   Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'family.shinhan.com'. (_ssl.c:1006)
 fdo2o.shinhan.com    Error: [Errno 111] Connection refused
@@ -253,10 +254,10 @@ fido.shinhan.com     Connection timed out
 fido2.shinhan.com    Error: [Errno 111] Connection refused
 for.shinhan.com      Error: [Errno 111] Connection refused
 for19c.shinhan.com   Connection timed out
-forapp.shinhan.com   59.12.171.160   (Expire Date: Dec 15 23:59:59 2023 GMT)
+forapp.shinhan.com   59.12.171.160   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 forapp19c.shinhan.com Connection timed out
 fordev.shinhan.com   Connection timed out
-form.shinhan.com     59.7.252.211    (Expire Date: Dec 15 23:59:59 2023 GMT)
+form.shinhan.com     59.7.252.211    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 formdev.shinhan.com  Connection timed out
 formtst.shinhan.com  Connection timed out
 fortst.shinhan.com   Connection timed out
@@ -273,51 +274,51 @@ gpt.shinhan.com      Connection timed out
 group.shinhan.com    Connection timed out
 gswdev.shinhan.com   Connection timed out
 guriocr.shinhan.com  Error: [Errno 111] Connection refused
-helpdesk.shinhan.com 59.7.254.22     (Expire Date: Jun 24 23:59:59 2024 GMT)
-hpc.shinhan.com      59.7.252.190    (Expire Date: Dec 15 23:59:59 2023 GMT)
+helpdesk.shinhan.com 59.7.254.22     (Expire Date: Jun 24 23:59:59 2024 GMT, Serial Number: 02B4A0F3BC299B95AD8096AAEE144BB5)
+hpc.shinhan.com      59.7.252.190    (Expire Date: Dec 15 23:59:59 2023 GMT, Serial Number: 0D73F46FF512827CA65E53DA8076D130)
 hpedev.shinhan.com   Connection timed out
 hpedev2.shinhan.com  Connection timed out
 hpetst.shinhan.com   Connection timed out
-html5.shinhan.com    59.7.252.81     (Expire Date: Dec 15 23:59:59 2023 GMT)
-image.shinhan.com    59.7.252.247    (Expire Date: Mar 24 23:59:59 2024 GMT)
+html5.shinhan.com    59.7.252.81     (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+image.shinhan.com    59.7.252.247    (Expire Date: Mar 24 23:59:59 2024 GMT, Serial Number: 0AA1557BABE2171FA5A16795704F3C33)
 imdm.shinhan.com     Connection timed out
-img.shinhan.com      59.7.252.200    (Expire Date: Dec 15 23:59:59 2023 GMT)
-img-1.shinhan.com    59.7.252.200    (Expire Date: Dec 15 23:59:59 2023 GMT)
-img-2.shinhan.com    59.7.252.200    (Expire Date: Dec 15 23:59:59 2023 GMT)
-imgdev.shinhan.com   125.130.60.83   (Expire Date: Dec 15 23:59:59 2023 GMT)
+img.shinhan.com      59.7.252.200    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+img-1.shinhan.com    59.7.252.200    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+img-2.shinhan.com    59.7.252.200    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+imgdev.shinhan.com   125.130.60.83   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 incheon.shinhan.com  Connection timed out
 info.shinhan.com     Connection timed out
 infodev2.shinhan.com Connection timed out
 inocr.shinhan.com    Connection timed out
 insidebank.shinhan.com Connection timed out
 insidebank19c.shinhan.com Connection timed out
-isbiz.shinhan.com    59.7.252.122    (Expire Date: Dec 15 23:59:59 2023 GMT)
+isbiz.shinhan.com    59.7.252.122    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 isbnk.shinhan.com    Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'isbnk.shinhan.com'. (_ssl.c:1006)
 ismintlady.shinhan.com Error: [Errno 111] Connection refused
-issbnk.shinhan.com   175.194.168.90  (Expire Date: Dec 15 23:59:59 2023 GMT)
+issbnk.shinhan.com   175.194.168.90  (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 iswww.shinhan.com    Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'iswww.shinhan.com'. (_ssl.c:1006)
-ithenext.shinhan.com 59.7.252.11     (Expire Date: Dec 15 23:59:59 2023 GMT)
-ithenextap.shinhan.com 59.7.252.11     (Expire Date: Dec 15 23:59:59 2023 GMT)
+ithenext.shinhan.com 59.7.252.11     (Expire Date: Dec 15 23:59:59 2023 GMT, Serial Number: 0D73F46FF512827CA65E53DA8076D130)
+ithenextap.shinhan.com 59.7.252.11     (Expire Date: Dec 15 23:59:59 2023 GMT, Serial Number: 0D73F46FF512827CA65E53DA8076D130)
 ithenextapdev.shinhan.com Connection timed out
 ithenextaptest.shinhan.com Connection timed out
-ithenextcert.shinhan.com 59.7.252.11     (Expire Date: Dec 15 23:59:59 2023 GMT)
+ithenextcert.shinhan.com 59.7.252.11     (Expire Date: Dec 15 23:59:59 2023 GMT, Serial Number: 0D73F46FF512827CA65E53DA8076D130)
 ithenextcertdev.shinhan.com Connection timed out
 ithenextcerttest.shinhan.com Connection timed out
 ithenextdev2.shinhan.com Connection timed out
-ithenextlgn.shinhan.com 59.7.252.11     (Expire Date: Dec 15 23:59:59 2023 GMT)
+ithenextlgn.shinhan.com 59.7.252.11     (Expire Date: Dec 15 23:59:59 2023 GMT, Serial Number: 0D73F46FF512827CA65E53DA8076D130)
 ithenextlgndev.shinhan.com Connection timed out
 ithenextlgntest.shinhan.com Connection timed out
-ithenextpdf.shinhan.com 59.7.252.11     (Expire Date: Dec 15 23:59:59 2023 GMT)
+ithenextpdf.shinhan.com 59.7.252.11     (Expire Date: Dec 15 23:59:59 2023 GMT, Serial Number: 0D73F46FF512827CA65E53DA8076D130)
 ithenextpdfdev.shinhan.com Connection timed out
 ithenextpdftest.shinhan.com Connection timed out
-ithenextrpt.shinhan.com 59.7.252.11     (Expire Date: Dec 15 23:59:59 2023 GMT)
+ithenextrpt.shinhan.com 59.7.252.11     (Expire Date: Dec 15 23:59:59 2023 GMT, Serial Number: 0D73F46FF512827CA65E53DA8076D130)
 ithenextrptdev.shinhan.com Connection timed out
 ithenextrpttest.shinhan.com Connection timed out
-ithenextshr.shinhan.com 59.7.252.11     (Expire Date: Dec 15 23:59:59 2023 GMT)
+ithenextshr.shinhan.com 59.7.252.11     (Expire Date: Dec 15 23:59:59 2023 GMT, Serial Number: 0D73F46FF512827CA65E53DA8076D130)
 ithenextshrdev.shinhan.com Connection timed out
 ithenextshrtest.shinhan.com Connection timed out
 ithenexttest.shinhan.com Connection timed out
-ithenextui.shinhan.com 59.7.252.11     (Expire Date: Dec 15 23:59:59 2023 GMT)
+ithenextui.shinhan.com 59.7.252.11     (Expire Date: Dec 15 23:59:59 2023 GMT, Serial Number: 0D73F46FF512827CA65E53DA8076D130)
 ithenextuidev.shinhan.com Connection timed out
 ithenextuitest.shinhan.com Connection timed out
 itobms.shinhan.com   Connection timed out
@@ -336,10 +337,10 @@ jjscert.shinhan.com  Connection timed out
 jjsmail.shinhan.com  Connection timed out
 jpdevelopersdev.shinhan.com Connection timed out
 kbiz.shinhan.com     Connection timed out
-kboimg1.shinhan.com  59.12.171.161   (Expire Date: Dec 15 23:59:59 2023 GMT)
+kboimg1.shinhan.com  59.12.171.161   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 kboimg1dev.shinhan.com Connection timed out
 kboimg1tst.shinhan.com Connection timed out
-kboimg2.shinhan.com  59.12.171.162   (Expire Date: Dec 15 23:59:59 2023 GMT)
+kboimg2.shinhan.com  59.12.171.162   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 kboimg2dev.shinhan.com Connection timed out
 kboimg2tst.shinhan.com Connection timed out
 kidsplus.shinhan.com Error: [Errno 111] Connection refused
@@ -347,14 +348,14 @@ livetutor.shinhan.com Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify
 livetutorserv.shinhan.com Connection timed out
 loan.shinhan.com     Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'loan.shinhan.com'. (_ssl.c:1006)
 loan19c.shinhan.com  Connection timed out
-m.shinhan.com        175.194.168.101 (Expire Date: Dec 15 23:59:59 2023 GMT)
-m.sign.shinhan.com   175.194.168.101 (Expire Date: Jul 28 23:59:59 2024 GMT)
-m2013.shinhan.com    175.194.168.101 (Expire Date: Dec 15 23:59:59 2023 GMT)
-main.shinhan.com     59.7.252.241    (Expire Date: Mar 24 23:59:59 2024 GMT)
+m.shinhan.com        175.194.168.101 (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+m.sign.shinhan.com   175.194.168.101 (Expire Date: Jul 28 23:59:59 2024 GMT, Serial Number: 0B6458DE977A86F2BCDFF089304C0BA4)
+m2013.shinhan.com    175.194.168.101 (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+main.shinhan.com     59.7.252.241    (Expire Date: Mar 24 23:59:59 2024 GMT, Serial Number: 09F31894024FBC20C481E458C90CEA54)
 mam.shinhan.com      Connection timed out
 mamtest.shinhan.com  Connection timed out
-mbank.shinhan.com    175.194.168.102 (Expire Date: Dec 15 23:59:59 2023 GMT)
-mbanking.shinhan.com 175.194.168.101 (Expire Date: Dec 15 23:59:59 2023 GMT)
+mbank.shinhan.com    175.194.168.102 (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+mbanking.shinhan.com 175.194.168.101 (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 mbb.shinhan.com      Connection timed out
 mbbdata.shinhan.com  Connection timed out
 mbbdatatest.shinhan.com Connection timed out
@@ -394,11 +395,11 @@ mds.shinhan.com      Connection timed out
 mdsdev.shinhan.com   Connection timed out
 mdstst.shinhan.com   Connection timed out
 me.shinhan.com       Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)
-m-ecm.shinhan.com    59.7.254.46     (Expire Date: Dec 15 23:59:59 2023 GMT)
+m-ecm.shinhan.com    59.7.254.46     (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 m-ecmdev.shinhan.com Connection timed out
-mel.shinhan.com      59.12.171.124   (Expire Date: Dec 15 23:59:59 2023 GMT)
+mel.shinhan.com      59.12.171.124   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 mhrdev.shinhan.com   Connection timed out
-mhwasang.shinhan.com 59.7.254.88     (Expire Date: Dec 15 23:59:59 2023 GMT)
+mhwasang.shinhan.com 59.7.254.88     (Expire Date: Dec 15 23:59:59 2023 GMT, Serial Number: 0D73F46FF512827CA65E53DA8076D130)
 mhwasangtest.shinhan.com Connection timed out
 mintadmin.shinhan.com Connection timed out
 mintdata.shinhan.com Connection timed out
@@ -407,10 +408,10 @@ mintlady.shinhan.com Error: [Errno 111] Connection refused
 minttst.shinhan.com  Connection timed out
 mission.shinhan.com  Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'mission.shinhan.com'. (_ssl.c:1006)
 mobile.shinhan.com   Connection timed out
-mobipost.shinhan.com 59.7.252.14     (Expire Date: Dec 15 23:59:59 2023 GMT)
+mobipost.shinhan.com 59.7.252.14     (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 mobremote.shinhan.com Connection timed out
-moli.shinhan.com     59.7.252.95     (Expire Date: Dec 15 23:59:59 2023 GMT)
-moli2.shinhan.com    59.7.252.38     (Expire Date: Dec 15 23:59:59 2023 GMT)
+moli.shinhan.com     59.7.252.95     (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+moli2.shinhan.com    59.7.252.38     (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 molidev.shinhan.com  Connection timed out
 molitest.shinhan.com Connection timed out
 mrets.shinhan.com    Error: [Errno 104] Connection reset by peer
@@ -418,75 +419,75 @@ msm.shinhan.com      Connection timed out
 msmdev.shinhan.com   Connection timed out
 msp.shinhan.com      Connection timed out
 mspdev.shinhan.com   Connection timed out
-mspstatic.shinhan.com Connection timed out
+mspstatic.shinhan.com 59.7.252.175    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 msw.shinhan.com      Connection timed out
 mswdev.shinhan.com   Connection timed out
 mswtst.shinhan.com   Connection timed out
 music.shinhan.com    Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'music.shinhan.com'. (_ssl.c:1006)
-myasset.shinhan.com  59.7.252.22     (Expire Date: May 24 23:59:59 2024 GMT)
-mydata.shinhan.com   59.7.252.23     (Expire Date: May 24 23:59:59 2024 GMT)
-newbizbank.shinhan.com 59.7.252.5      (Expire Date: Dec 15 23:59:59 2023 GMT)
+myasset.shinhan.com  59.7.252.22     (Expire Date: May 24 23:59:59 2024 GMT, Serial Number: 0744D769050BEFBAEBAA6D08A61C4DE2)
+mydata.shinhan.com   59.7.252.23     (Expire Date: May 24 23:59:59 2024 GMT, Serial Number: 09DE4CEEA1729BBA0B042AD6499BCD7D)
+newbizbank.shinhan.com 59.7.252.5      (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 newrecm.shinhan.com  Connection timed out
 newrecmdev.shinhan.com Connection timed out
 nexb.shinhan.com     Connection timed out
 nexmob.shinhan.com   Connection timed out
-nextfido.shinhan.com 59.12.171.46    (Expire Date: Dec 15 23:59:59 2023 GMT)
+nextfido.shinhan.com 59.12.171.46    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 nio.shinhan.com      Connection timed out
-nlog.shinhan.com     59.7.252.33     (Expire Date: Dec 15 23:59:59 2023 GMT)
-noface.shinhan.com   59.7.252.163    (Expire Date: Dec 15 23:59:59 2023 GMT)
+nlog.shinhan.com     59.7.252.33     (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+noface.shinhan.com   59.7.252.163    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 noface1.shinhan.com  Connection timed out
 noface19c.shinhan.com Connection timed out
-nofacesol.shinhan.com 59.7.252.119    (Expire Date: Dec 15 23:59:59 2023 GMT)
+nofacesol.shinhan.com 59.7.252.119    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 notio2o.shinhan.com  Connection timed out
 ns.shinhan.com       Connection timed out
-nsol.shinhan.com     59.12.171.47    (Expire Date: Dec 15 23:59:59 2023 GMT)
-nsoldls.shinhan.com  59.7.252.27     (Expire Date: Dec 15 23:59:59 2023 GMT)
+nsol.shinhan.com     59.12.171.47    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+nsoldls.shinhan.com  59.7.252.27     (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 nsolstore.shinhan.com Connection timed out
 o2o.shinhan.com      Error: [Errno 111] Connection refused
 oac.shinhan.com      Connection timed out
 obackofficeo2o.shinhan.com Error: [Errno 111] Connection refused
-ocsp.shinhan.com     59.7.252.12     (Expire Date: Dec 15 23:59:59 2023 GMT)
-oldbank.shinhan.com  59.7.252.250    (Expire Date: Dec 15 23:59:59 2023 GMT)
-oldhome.shinhan.com  59.7.252.252    (Expire Date: Dec 15 23:59:59 2023 GMT)
-oldm.shinhan.com     175.194.168.102 (Expire Date: Dec 15 23:59:59 2023 GMT)
-old-m.shinhan.com    59.7.252.251    (Expire Date: Dec 15 23:59:59 2023 GMT)
+ocsp.shinhan.com     59.7.252.12     (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+oldbank.shinhan.com  59.7.252.250    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+oldhome.shinhan.com  59.7.252.252    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+oldm.shinhan.com     175.194.168.102 (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+old-m.shinhan.com    59.7.252.251    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 oldm19c.shinhan.com  Connection timed out
 oldmail.shinhan.com  Connection timed out
-oldped.shinhan.com   59.7.252.253    (Expire Date: Dec 15 23:59:59 2023 GMT)
-open.shinhan.com     59.7.252.92     (Expire Date: Dec 15 23:59:59 2023 GMT)
-open-1.shinhan.com   59.7.252.81     (Expire Date: Dec 15 23:59:59 2023 GMT)
-open-2.shinhan.com   59.7.252.81     (Expire Date: Dec 15 23:59:59 2023 GMT)
+oldped.shinhan.com   59.7.252.253    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+open.shinhan.com     59.7.252.92     (Expire Date: Dec 15 23:59:59 2023 GMT, Serial Number: 0D73F46FF512827CA65E53DA8076D130)
+open-1.shinhan.com   59.7.252.81     (Expire Date: Dec 15 23:59:59 2023 GMT, Serial Number: 0D73F46FF512827CA65E53DA8076D130)
+open-2.shinhan.com   59.7.252.81     (Expire Date: Dec 15 23:59:59 2023 GMT, Serial Number: 0D73F46FF512827CA65E53DA8076D130)
 openapigw.shinhan.com Connection timed out
 org-edudev.shinhan.com Connection timed out
-orora.shinhan.com    59.7.252.37     (Expire Date: Dec 15 23:59:59 2023 GMT)
-ourstory.shinhan.com 59.7.254.79     (Expire Date: Dec 15 23:59:59 2023 GMT)
-pension.shinhan.com  59.7.252.81     (Expire Date: Dec 15 23:59:59 2023 GMT)
-pensionedu.shinhan.com 59.7.252.219    (Expire Date: Dec 15 23:59:59 2023 GMT)
+orora.shinhan.com    59.7.252.37     (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+ourstory.shinhan.com 59.7.254.79     (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+pension.shinhan.com  59.7.252.81     (Expire Date: Dec 15 23:59:59 2023 GMT, Serial Number: 0D73F46FF512827CA65E53DA8076D130)
+pensionedu.shinhan.com 59.7.252.219    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 pfm.shinhan.com      Connection timed out
 pfmdev.shinhan.com   Connection timed out
 pfmtst.shinhan.com   Connection timed out
 pg.shinhan.com       Connection timed out
 photo.shinhan.com    Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'photo.shinhan.com'. (_ssl.c:1006)
-pld.shinhan.com      59.7.252.36     (Expire Date: Dec 15 23:59:59 2023 GMT)
+pld.shinhan.com      59.7.252.36     (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 pld19c.shinhan.com   Connection timed out
 pmn.shinhan.com      Error: [Errno 111] Connection refused
 pmn19c.shinhan.com   Connection timed out
 pmndev.shinhan.com   Connection timed out
 pmntst.shinhan.com   Connection timed out
-portal.sign.shinhan.com 59.7.252.184    (Expire Date: Aug 29 23:59:59 2024 GMT)
+portal.sign.shinhan.com 59.7.252.184    (Expire Date: Aug 29 23:59:59 2024 GMT, Serial Number: 0E5E2DABF2715CEFD3D68DDCDAAE2DB1)
 premier.shinhan.com  Connection timed out
 private.shinhan.com  Connection timed out
 prod-openapigw.shinhan.com Connection timed out
 provision.shinhan.com Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)
-ptadm.shinhan.com    59.7.252.184    (Expire Date: Apr 26 23:59:59 2024 GMT)
-q.shinhan.com        59.7.252.158    (Expire Date: Dec 15 23:59:59 2023 GMT)
+ptadm.shinhan.com    59.7.252.184    (Expire Date: Apr 26 23:59:59 2024 GMT, Serial Number: 03B7AB28219CFDDB062DCD574635BEA0)
+q.shinhan.com        59.7.252.158    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 q-dev.shinhan.com    Connection timed out
 qrcert.shinhan.com   Connection timed out
 qrcertdev.shinhan.com Connection timed out
-rcmd.shinhan.com     59.7.252.174    (Expire Date: Dec 15 23:59:59 2023 GMT)
+rcmd.shinhan.com     59.7.252.174    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 rcmddev.shinhan.com  Connection timed out
 rcmdtst.shinhan.com  Connection timed out
-register.shinhan.com 59.7.252.117    (Expire Date: Dec 15 23:59:59 2023 GMT)
+register.shinhan.com 59.7.252.117    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 register19c.shinhan.com Connection timed out
 report.shinhan.com   Error: [Errno 111] Connection refused
 rets.shinhan.com     Error: [Errno 104] Connection reset by peer
@@ -503,22 +504,22 @@ samdev.shinhan.com   Connection timed out
 samtst.shinhan.com   Connection timed out
 sbank.shinhan.com    Connection timed out
 s-bank.shinhan.com   Error: [Errno 111] Connection refused
-sbank1.shinhan.com   59.7.252.128    (Expire Date: Dec 15 23:59:59 2023 GMT)
-sbank2.shinhan.com   59.7.252.128    (Expire Date: Dec 15 23:59:59 2023 GMT)
+sbank1.shinhan.com   59.7.252.128    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+sbank2.shinhan.com   59.7.252.128    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 s-bankdev.shinhan.com Connection timed out
 s-banktest.shinhan.com Connection timed out
 s-banktst.shinhan.com Connection timed out
-sbiz.shinhan.com     59.7.252.6      (Expire Date: Dec 15 23:59:59 2023 GMT)
-sbizbank.shinhan.com 59.7.252.104    (Expire Date: Dec 15 23:59:59 2023 GMT)
+sbiz.shinhan.com     59.7.252.6      (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+sbizbank.shinhan.com 59.7.252.104    (Expire Date: Dec 15 23:59:59 2023 GMT, Serial Number: 0D73F46FF512827CA65E53DA8076D130)
 sbizbank19c.shinhan.com Connection timed out
-sbk.shinhan.com      175.194.168.100 (Expire Date: Dec 15 23:59:59 2023 GMT)
-sbk16.shinhan.com    175.194.168.99  (Expire Date: Dec 15 23:59:59 2023 GMT)
+sbk.shinhan.com      175.194.168.100 (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+sbk16.shinhan.com    175.194.168.99  (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 sbk19c.shinhan.com   Connection timed out
 sbk-sc.shinhan.com   Connection timed out
 sbp.shinhan.com      Connection timed out
-scert.shinhan.com    59.7.252.128    (Expire Date: Dec 15 23:59:59 2023 GMT)
+scert.shinhan.com    59.7.252.128    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 scert19c.shinhan.com Connection timed out
-scertdev.shinhan.com 125.130.60.153  (Expire Date: Dec 15 23:59:59 2023 GMT)
+scertdev.shinhan.com 125.130.60.153  (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 schat.shinhan.com    Connection timed out
 schattest.shinhan.com Connection timed out
 school.shinhan.com   Connection timed out
@@ -528,46 +529,46 @@ senior.shinhan.com   Error: [Errno 111] Connection refused
 sfc.shinhan.com      Error: [Errno 111] Connection refused
 sfcdev.shinhan.com   Connection timed out
 sfctst.shinhan.com   Connection timed out
-sgpapc.shinhan.com   Connection timed out
-sgpapplog.shinhan.com 59.7.252.192    (Expire Date: Dec 15 23:59:59 2023 GMT)
+sgpapc.shinhan.com   59.7.252.226    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+sgpapplog.shinhan.com 59.7.252.192    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 shbapi.shinhan.com   Connection timed out
 shbrc.shinhan.com    Connection timed out
 shbvm.shinhan.com    Connection timed out
-shedutest.shinhan.com 59.7.252.119    (Expire Date: Dec 15 23:59:59 2023 GMT)
-shinhan.com          59.7.252.241    (Expire Date: Mar 24 23:59:59 2024 GMT)
+shedutest.shinhan.com 59.7.252.119    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+shinhan.com          59.7.252.241    (Expire Date: Mar 24 23:59:59 2024 GMT, Serial Number: 0E3853F8DD72783FF83A642043E4A304)
 shinhansign.shinhan.com Connection timed out
 shn.shinhan.com      Connection timed out
-shpbank.shinhan.com  Connection timed out
-shpbankstatic.shinhan.com Connection timed out
+shpbank.shinhan.com  59.12.171.215   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+shpbankstatic.shinhan.com 59.12.171.216   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 shr.shinhan.com      Connection timed out
-sign.shinhan.com     59.7.252.92     (Expire Date: Dec 15 23:59:59 2023 GMT)
+sign.shinhan.com     59.7.252.92     (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 signdev.shinhan.com  Connection timed out
 signtst.shinhan.com  Connection timed out
 simas.shinhan.com    Connection timed out
 simas19c.shinhan.com Connection timed out
 sims.shinhan.com     Connection timed out
 simsdev.shinhan.com  Connection timed out
-s-mail.shinhan.com   59.7.252.90     (Expire Date: Dec 15 23:59:59 2023 GMT)
+s-mail.shinhan.com   59.7.252.90     (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 s-mail19c.shinhan.com Connection timed out
 smailpush.shinhan.com Connection timed out
 smailpush19c.shinhan.com Connection timed out
 smart.shinhan.com    Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'smart.shinhan.com'. (_ssl.c:1006)
-snt.shinhan.com      59.7.252.7      (Expire Date: Dec 15 23:59:59 2023 GMT)
+snt.shinhan.com      59.7.252.7      (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 socr.shinhan.com     Connection timed out
-sol.shinhan.com      59.12.171.99    (Expire Date: Dec 15 23:59:59 2023 GMT)
+sol.shinhan.com      59.12.171.99    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 sol19c.shinhan.com   Connection timed out
-sol2nd.shinhan.com   59.12.171.149   (Expire Date: Dec 15 23:59:59 2023 GMT)
-solfido.shinhan.com  59.12.171.91    (Expire Date: Dec 15 23:59:59 2023 GMT)
+sol2nd.shinhan.com   59.12.171.149   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+solfido.shinhan.com  59.12.171.91    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 solfido19c.shinhan.com Connection timed out
-solfido2nd.shinhan.com 59.12.171.141   (Expire Date: Dec 15 23:59:59 2023 GMT)
-solglb.shinhan.com   59.12.171.48    (Expire Date: Dec 15 23:59:59 2023 GMT)
+solfido2nd.shinhan.com 59.12.171.141   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+solglb.shinhan.com   59.12.171.48    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 solnoface19c.shinhan.com Connection timed out
-som.shinhan.com      59.12.171.70    (Expire Date: Dec 15 23:59:59 2023 GMT)
-spa.shinhan.com      Connection timed out
-spaplus.shinhan.com  Connection timed out
-spastatic.shinhan.com Connection timed out
+som.shinhan.com      59.12.171.70    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+spa.shinhan.com      59.12.171.212   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+spaplus.shinhan.com  59.12.171.213   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+spastatic.shinhan.com 59.12.171.214   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 sprm.shinhan.com     Connection timed out
-stbap.shinhan.com    222.101.95.50   (Expire Date: Dec 15 23:59:59 2023 GMT)
+stbap.shinhan.com    222.101.95.50   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 stbap-dev.shinhan.com Connection timed out
 stp.shinhan.com      Error: [Errno 111] Connection refused
 stpdev.shinhan.com   Connection timed out
@@ -581,61 +582,61 @@ swimgdev.shinhan.com Connection timed out
 testforapp.shinhan.com Connection timed out
 testmail.shinhan.com Connection timed out
 tetax.shinhan.com    Connection timed out
-thenext.shinhan.com  59.7.252.11     (Expire Date: Dec 15 23:59:59 2023 GMT)
-thenextap.shinhan.com 59.7.252.11     (Expire Date: Dec 15 23:59:59 2023 GMT)
+thenext.shinhan.com  59.7.252.11     (Expire Date: Dec 15 23:59:59 2023 GMT, Serial Number: 0D73F46FF512827CA65E53DA8076D130)
+thenextap.shinhan.com 59.7.252.11     (Expire Date: Dec 15 23:59:59 2023 GMT, Serial Number: 0D73F46FF512827CA65E53DA8076D130)
 thenextapdev.shinhan.com Connection timed out
 thenextaptest.shinhan.com Connection timed out
-thenextb.shinhan.com 59.7.252.11     (Expire Date: Dec 15 23:59:59 2023 GMT)
-thenextcert.shinhan.com 59.7.252.11     (Expire Date: Dec 15 23:59:59 2023 GMT)
+thenextb.shinhan.com 59.7.252.11     (Expire Date: Dec 15 23:59:59 2023 GMT, Serial Number: 0D73F46FF512827CA65E53DA8076D130)
+thenextcert.shinhan.com 59.7.252.11     (Expire Date: Dec 15 23:59:59 2023 GMT, Serial Number: 0D73F46FF512827CA65E53DA8076D130)
 thenextcertdev.shinhan.com Connection timed out
 thenextcerttest.shinhan.com Connection timed out
-thenextcln.shinhan.com 59.12.171.142   (Expire Date: Dec 15 23:59:59 2023 GMT)
-thenextclnap.shinhan.com 59.12.171.142   (Expire Date: Dec 15 23:59:59 2023 GMT)
+thenextcln.shinhan.com Connection timed out
+thenextclnap.shinhan.com Connection timed out
 thenextclnapdev.shinhan.com Connection timed out
 thenextclnaptst.shinhan.com Connection timed out
-thenextclnchq.shinhan.com 59.12.171.142   (Expire Date: Dec 15 23:59:59 2023 GMT)
+thenextclnchq.shinhan.com Connection timed out
 thenextclnchqdev.shinhan.com Connection timed out
 thenextclnchqtst.shinhan.com Connection timed out
 thenextclndev.shinhan.com Connection timed out
-thenextclnifl.shinhan.com 59.12.171.142   (Expire Date: Dec 15 23:59:59 2023 GMT)
+thenextclnifl.shinhan.com Connection timed out
 thenextclnifldev.shinhan.com Connection timed out
 thenextclnifltst.shinhan.com Connection timed out
-thenextclnlogin.shinhan.com 59.12.171.142   (Expire Date: Dec 15 23:59:59 2023 GMT)
+thenextclnlogin.shinhan.com Connection timed out
 thenextclnlogindev.shinhan.com Connection timed out
 thenextclnlogintst.shinhan.com Connection timed out
-thenextclnrch.shinhan.com 59.12.171.142   (Expire Date: Dec 15 23:59:59 2023 GMT)
+thenextclnrch.shinhan.com Connection timed out
 thenextclnrchdev.shinhan.com Connection timed out
 thenextclnrchtst.shinhan.com Connection timed out
-thenextclnrd.shinhan.com 59.12.171.142   (Expire Date: Dec 15 23:59:59 2023 GMT)
+thenextclnrd.shinhan.com Connection timed out
 thenextclnrddev.shinhan.com Connection timed out
 thenextclnrdtst.shinhan.com Connection timed out
-thenextclnscr.shinhan.com 59.12.171.142   (Expire Date: Dec 15 23:59:59 2023 GMT)
+thenextclnscr.shinhan.com Connection timed out
 thenextclnscrdev.shinhan.com Connection timed out
 thenextclnscrtst.shinhan.com Connection timed out
 thenextclntst.shinhan.com Connection timed out
 thenextdev2.shinhan.com Connection timed out
-thenextlgn.shinhan.com 59.7.252.11     (Expire Date: Dec 15 23:59:59 2023 GMT)
+thenextlgn.shinhan.com 59.7.252.11     (Expire Date: Dec 15 23:59:59 2023 GMT, Serial Number: 0D73F46FF512827CA65E53DA8076D130)
 thenextlgndev.shinhan.com Connection timed out
 thenextlgntest.shinhan.com Connection timed out
-thenextpdf.shinhan.com 59.7.252.11     (Expire Date: Dec 15 23:59:59 2023 GMT)
+thenextpdf.shinhan.com 59.7.252.11     (Expire Date: Dec 15 23:59:59 2023 GMT, Serial Number: 0D73F46FF512827CA65E53DA8076D130)
 thenextpdfdev.shinhan.com Connection timed out
 thenextpdftest.shinhan.com Connection timed out
-thenextrpt.shinhan.com 59.7.252.11     (Expire Date: Dec 15 23:59:59 2023 GMT)
+thenextrpt.shinhan.com 59.7.252.11     (Expire Date: Dec 15 23:59:59 2023 GMT, Serial Number: 0D73F46FF512827CA65E53DA8076D130)
 thenextrptdev.shinhan.com Connection timed out
 thenextrpttest.shinhan.com Connection timed out
-thenextshr.shinhan.com 59.7.252.11     (Expire Date: Dec 15 23:59:59 2023 GMT)
+thenextshr.shinhan.com 59.7.252.11     (Expire Date: Dec 15 23:59:59 2023 GMT, Serial Number: 0D73F46FF512827CA65E53DA8076D130)
 thenextshrdev.shinhan.com Connection timed out
 thenextshrtest.shinhan.com Connection timed out
 thenexttest.shinhan.com Connection timed out
-thenextui.shinhan.com 59.7.252.11     (Expire Date: Dec 15 23:59:59 2023 GMT)
+thenextui.shinhan.com 59.7.252.11     (Expire Date: Dec 15 23:59:59 2023 GMT, Serial Number: 0D73F46FF512827CA65E53DA8076D130)
 thenextuidev.shinhan.com Connection timed out
 thenextuitest.shinhan.com Connection timed out
-tong.shinhan.com     59.7.252.158    (Expire Date: Dec 15 23:59:59 2023 GMT)
+tong.shinhan.com     59.7.252.158    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 track.shinhan.com    Connection timed out
 tracking.shinhan.com Connection timed out
 tracking2.shinhan.com Connection timed out
 transapio2o.shinhan.com Error: [Errno 111] Connection refused
-tsstnewapp.shinhan.com 106.241.47.202  (Expire Date: Dec 15 23:59:59 2023 GMT)
+tsstnewapp.shinhan.com 106.241.47.202  (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 tst2ch.shinhan.com   Connection timed out
 tst-apisvc.shinhan.com Connection timed out
 tstase.shinhan.com   Connection timed out
@@ -659,8 +660,8 @@ tstforapp19c.shinhan.com Connection timed out
 tsthpe19c.shinhan.com Connection timed out
 tsthpe2.shinhan.com  Connection timed out
 tsthpe3.shinhan.com  Connection timed out
-tstimg.shinhan.com   125.130.60.158  (Expire Date: Dec 15 23:59:59 2023 GMT)
-tstimg3.shinhan.com  125.130.60.140  (Expire Date: Dec 15 23:59:59 2023 GMT)
+tstimg.shinhan.com   125.130.60.158  (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+tstimg3.shinhan.com  125.130.60.140  (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 tstins19c.shinhan.com Connection timed out
 tstkids.shinhan.com  Connection timed out
 tstklv.shinhan.com   Connection timed out
@@ -671,14 +672,14 @@ tst-mbank.shinhan.com Connection timed out
 tstmcb19c.shinhan.com Connection timed out
 tstmis.shinhan.com   Connection timed out
 tstmob.shinhan.com   Connection timed out
-tstmsp.shinhan.com   106.241.48.98   (Expire Date: Dec 15 23:59:59 2023 GMT)
-tstmspstatic.shinhan.com 106.241.48.99   (Expire Date: Dec 15 23:59:59 2023 GMT)
-tstnewapp.shinhan.com 106.241.47.202  (Expire Date: Dec 15 23:59:59 2023 GMT)
+tstmsp.shinhan.com   106.241.48.98   (Expire Date: Oct 26 23:59:59 2024 GMT, Serial Number: 0DB5CCC5A7D580E35F01A921CAB7996D)
+tstmspstatic.shinhan.com 106.241.48.99   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+tstnewapp.shinhan.com 106.241.47.202  (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 tstnewappdls.shinhan.com Connection timed out
 tst-nextfido.shinhan.com Connection timed out
 tst-noface.shinhan.com Connection timed out
 tstnoface19c.shinhan.com Connection timed out
-tstnsol.shinhan.com  106.241.47.202  (Expire Date: Dec 15 23:59:59 2023 GMT)
+tstnsol.shinhan.com  106.241.47.202  (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 tstnsoldls.shinhan.com Connection timed out
 tstoib.shinhan.com   Connection timed out
 tst-oldm.shinhan.com Connection timed out
@@ -697,31 +698,31 @@ tst-sbk16.shinhan.com Connection timed out
 tstsbk1619c.shinhan.com Connection timed out
 tstsbz.shinhan.com   Connection timed out
 tst-senior.shinhan.com Connection timed out
-tstshpbank.shinhan.com 106.241.48.96   (Expire Date: Dec 15 23:59:59 2023 GMT)
-tstshpbankstatic.shinhan.com 106.241.48.97   (Expire Date: Dec 15 23:59:59 2023 GMT)
-tstshpcard.shinhan.com 106.241.48.123  (Expire Date: Dec 15 23:59:59 2023 GMT)
-tstshpinvest.shinhan.com 106.241.48.124  (Expire Date: Dec 15 23:59:59 2023 GMT)
-tstshplife.shinhan.com 106.241.48.125  (Expire Date: Dec 15 23:59:59 2023 GMT)
+tstshpbank.shinhan.com 106.241.48.96   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+tstshpbankstatic.shinhan.com 106.241.48.97   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+tstshpcard.shinhan.com 106.241.48.123  (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+tstshpinvest.shinhan.com 106.241.48.124  (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+tstshplife.shinhan.com 106.241.48.125  (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 tstsmail.shinhan.com Connection timed out
 tstsmail19c.shinhan.com Connection timed out
 tstsmailpush.shinhan.com Connection timed out
 tstsmailpush19c.shinhan.com Connection timed out
 tstsmt.shinhan.com   Connection timed out
-tstsnt.shinhan.com   106.241.47.205  (Expire Date: Dec 15 23:59:59 2023 GMT)
+tstsnt.shinhan.com   106.241.47.205  (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 tstsol.shinhan.com   Connection timed out
 tstsol19c.shinhan.com Connection timed out
 tstsolfido19c.shinhan.com Connection timed out
 tstsolglb.shinhan.com Connection timed out
-tstspa.shinhan.com   106.241.48.93   (Expire Date: Dec 15 23:59:59 2023 GMT)
-tstspaplus.shinhan.com 106.241.48.94   (Expire Date: Dec 15 23:59:59 2023 GMT)
-tstspastatic.shinhan.com 106.241.48.95   (Expire Date: Dec 15 23:59:59 2023 GMT)
+tstspa.shinhan.com   106.241.48.93   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+tstspaplus.shinhan.com 106.241.48.94   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
+tstspastatic.shinhan.com 106.241.48.95   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 tsttong.shinhan.com  Connection timed out
 tstums19c.shinhan.com Connection timed out
 tstzeroco.shinhan.com Connection timed out
 tstzeroco19c.shinhan.com Connection timed out
 tvhapi.shinhan.com   Connection timed out
 tvhapidev.shinhan.com Connection timed out
-tyai.shinhan.com     Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)
+tyai.shinhan.com     59.12.171.120   (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 ubc.shinhan.com      Connection timed out
 ubcdev.shinhan.com   Connection timed out
 ubcrtc.shinhan.com   Connection timed out
@@ -729,7 +730,7 @@ ubcrtcdev.shinhan.com Connection timed out
 ubcrtctst.shinhan.com Connection timed out
 ubctst.shinhan.com   Connection timed out
 uca.shinhan.com      Connection timed out
-ucadata.shinhan.com  59.7.252.191    (Expire Date: Dec 15 23:59:59 2023 GMT)
+ucadata.shinhan.com  59.7.252.191    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 ucatest.shinhan.com  Connection timed out
 ucatestdata.shinhan.com Connection timed out
 ucp.shinhan.com      Connection timed out
@@ -746,21 +747,23 @@ vanatest.shinhan.com Connection timed out
 vanaweb.shinhan.com  Connection timed out
 vanawebtest.shinhan.com Connection timed out
 vfund.shinhan.com    Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'vfund.shinhan.com'. (_ssl.c:1006)
-voicebanking.shinhan.com 59.12.171.45    (Expire Date: Dec 15 23:59:59 2023 GMT)
+voicebanking.shinhan.com 59.12.171.45    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 voicebankingdev.shinhan.com Connection timed out
 vrs.shinhan.com      Connection timed out
 vrsdev.shinhan.com   Connection timed out
 wbkdev.shinhan.com   Connection timed out
 wbktst.shinhan.com   Connection timed out
 wcms.shinhan.com     Connection timed out
-web-notice.shinhan.com 59.7.252.25     (Expire Date: Dec 15 23:59:59 2023 GMT)
+web-notice.shinhan.com 59.7.252.25     (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 webzine.shinhan.com  Connection timed out
 wise.shinhan.com     Error: [Errno 111] Connection refused
 wish.shinhan.com     Error: [Errno 111] Connection refused
 worksitebank.shinhan.com Connection timed out
 wsbdev.shinhan.com   Connection timed out
 wsbtst.shinhan.com   Connection timed out
-www.shinhan.com      59.7.252.241    (Expire Date: Mar 24 23:59:59 2024 GMT)
+www.shinhan.com      59.7.252.241    (Expire Date: Mar 24 23:59:59 2024 GMT, Serial Number: 0E3853F8DD72783FF83A642043E4A304)
 www19c.shinhan.com   Connection timed out
-zeroco.shinhan.com   59.12.171.81    (Expire Date: Dec 15 23:59:59 2023 GMT)
+zeroco.shinhan.com   59.12.171.81    (Expire Date: Dec 17 23:59:59 2024 GMT, Serial Number: 012FE68507E0E5DD99118C965C8E6B30)
 zeroco19c.shinhan.com Connection timed out
+
+[Done] exited with code=0 in 1258.97 seconds

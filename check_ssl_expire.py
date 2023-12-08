@@ -13,7 +13,8 @@ def url_to_dict():
             else:
                 LINE_LIST = line.split(":")
                 check_port = LINE_LIST[1].rstrip()
-                url_dict[LINE_LIST[0]] = check_port
+                url_dict[LINE_LIST[0]] = check_p
+                -ort
 
 
 context = ssl.create_default_context()
